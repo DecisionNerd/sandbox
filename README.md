@@ -6,4 +6,4 @@ Tutorial materials for live instruction and examples for reference
 
 ## Background & License
 
-@DecisionNerd's first repo created while attending PyCamp in 2012.  PyCamp and PyCamp material are copyright 2012 by Chris Calloway.  Check out his awesome training bootcamps at http://trizpug.org/boot-camp. New additions to this software are copyright 2012 David Spencer under the MIT License.
+@DecisionNerd's first repo created while attending PyCamp in 2012.  Material is copyright 2012-2021 David Spencer under the MIT License.
